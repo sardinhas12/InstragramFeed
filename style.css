@@ -1,0 +1,39 @@
+body {
+	background: #A6BFBF;
+	margin: 0;
+}
+header{
+	background: white;
+	padding: 10px;
+	text-align: justify-all;
+}
+header h1{
+	margin: 0;
+}
+
+div.post1{
+	background: white;
+	margin: 10px;
+}
+div.post1 img {
+	object-fit: cover;
+	width: 100%;
+}
+div.post1 h2{
+	padding: 10px;
+	margin: 0;
+}
+div.post1 span{
+	float: right;
+	display: inline-flex;
+	margin: 0;
+}
+div.post1 p{
+	padding: 10px;
+	margin: 0;
+};
+
+div.container {
+	width:600px;
+	margin:auto;
+};
